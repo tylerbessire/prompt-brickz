@@ -2,7 +2,7 @@
 
 **AI Prompt Engineering Made Magic** ✨
 
-Transform any prompt into professional-grade output through intuitive brick selection and automatic two-pass optimization the help of Brickz wizard.
+Transform any prompt into professional-grade output through Brickz! Brickz are tag words of phrases that you can drag and drop into a template to optimize your query. Intuitive brick selection and automatic two-pass optimization are all done with the help of Brickz wizard. He will analyze your code, prompt, idea etc, and produce a template and list of suggestion Brickz to use. My end goal is to speed up Model evaluations and alignment A/B by magnitudes if possible. 
 
 ![Prompt Brickz](https://img.shields.io/badge/AI-Prompt%20Engineering-orange)
 ![Version](https://img.shields.io/badge/version-2.0-blue)
