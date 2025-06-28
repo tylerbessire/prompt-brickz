@@ -2,7 +2,7 @@
 
 **AI Prompt Engineering Made Magic** ✨
 
-Transform any prompt into professional-grade output through intuitive brick selection and automatic two-pass optimization with a TARS-inspired wizard.
+Transform any prompt into professional-grade output through intuitive brick selection and automatic two-pass optimization the help of Brickz wizard.
 
 ![Prompt Brickz](https://img.shields.io/badge/AI-Prompt%20Engineering-orange)
 ![Version](https://img.shields.io/badge/version-2.0-blue)
@@ -10,7 +10,7 @@ Transform any prompt into professional-grade output through intuitive brick sele
 
 ## 🚀 Features
 
-### 🧙‍♂️ TARS-Inspired Wizard
+### 🧙‍♂️ Brickz Wizard
 - **Intelligent Content Analysis**: Automatically detects code, workflows, data, documents, images, and conversations
 - **Smart Brick Suggestions**: AI-powered recommendations based on content type
 - **Humorous Commentary**: TARS-like personality with 85% humor setting
@@ -23,7 +23,7 @@ Transform any prompt into professional-grade output through intuitive brick sele
 - **Progress Animations**: Engaging circles with humorous commentary
 
 ### ⚡ Two-Pass Optimization Engine
-- **Hidden PSE Enhancement**: Anti-Claude competitive framing for 150% better results
+- **PSE(Perspective Shift Effect) Enhancement**: Additional output pruning with PSE for optimal code refinement
 - **Always-On Processing**: Users see only the final optimized output
 - **Content-Aware Templates**: Different approaches for code, conversations, and workflows
 - **Production Ready**: Professional-grade prompts automatically
@@ -31,7 +31,7 @@ Transform any prompt into professional-grade output through intuitive brick sele
 ### 🧱 Advanced Brick System
 - **Six Categories**: Styles, Goals, Scopes, Personas, Formats, Contexts
 - **Smart Selection**: Content-aware brick suggestions
-- **Custom Creation**: Mad Libs style guidance for personal bricks
+- **Custom Creation**: Guidance for personal bricks
 - **Professional Colors**: Bright pastels for visual organization
 
 ## 📸 Screenshots
@@ -40,7 +40,7 @@ Transform any prompt into professional-grade output through intuitive brick sele
 Beautiful glassmorphism design with interactive elements
 
 ### Wizard Analysis
-TARS-inspired AI assistant providing intelligent suggestions
+AI assistant providing intelligent suggestions
 
 ### Progress Animation
 Engaging progress circles with humor and real-time updates
@@ -119,10 +119,10 @@ Engaging progress circles with humor and real-time updates
 - **Flask Application**: Lightweight Python web framework
 - **Modular Design**: Wizard, Bricks, and Optimizer components
 - **API Integration**: Support for OpenAI, Anthropic, and Gemini
-- **Two-Pass System**: Hidden optimization for better results
+- **Two-Pass System**: Backend optimization for better results
 
 ### Key Components
-- **BrickzWizard**: TARS-inspired content analysis
+- **BrickzWizard**:  Content analysis/User guidance
 - **TwoPassOptimizer**: PSE enhancement engine
 - **BrickLibrary**: Modular prompt components
 - **Glassmorphism UI**: Modern visual effects
@@ -137,16 +137,9 @@ Engaging progress circles with humor and real-time updates
 
 ### User Experience
 - **Zero Learning Curve**: Intuitive drag-and-drop interface
-- **Hidden Complexity**: Advanced PSE techniques work invisibly
 - **Immediate Feedback**: Real-time wizard commentary
 - **Progressive Disclosure**: Features revealed as needed
 
-## 📊 Performance
-
-- **150% Average Improvement**: Based on PSE research findings
-- **2-3 Second Processing**: Fast optimization pipeline
-- **Zero Setup Required**: Works immediately out of the box
-- **Production Ready**: Enterprise-grade output quality
 
 ## 🔮 Advanced Features
 
@@ -159,7 +152,7 @@ GEMINI_API_KEY=your_key_here
 ```
 
 ### Custom Bricks
-Create personalized prompt modifiers through Mad Libs style guidance:
+Create personalized prompt modifiers through guidance:
 - **Styles**: How should it be written?
 - **Goals**: What should it achieve?
 - **Scopes**: What level of detail?
@@ -176,7 +169,7 @@ Create personalized prompt modifiers through Mad Libs style guidance:
 
 ## 🛡️ Security & Privacy
 
-- **Local Processing**: No data sent to third parties by default
+- **Local Processing**: No data sent to third parties EVER
 - **API Key Protection**: Environment variables for sensitive data
 - **No Logging**: Personal information never stored
 - **Open Source**: Full transparency in code
@@ -234,10 +227,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [GitHub Wiki](https://github.com/tylerbessire/prompt-brickz/wiki)
 - **Issues**: [GitHub Issues](https://github.com/tylerbessire/prompt-brickz/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/tylerbessire/prompt-brickz/discussions)
-- **Email**: promptbrickz@example.com
+- **Email**: tylerbessire@gmail.com
 
 ---
 
-**Built with ❤️ by [Tyler Bessire](https://github.com/tylerbessire)**
+**Built with ❤️ by [Tyler Bessire](https://github.com/tylerbessire) and Claude**
 
-*Making AI prompt engineering accessible to everyone through beautiful UX and hidden complexity.*
+*Making AI prompt engineering accessible to everyone*
