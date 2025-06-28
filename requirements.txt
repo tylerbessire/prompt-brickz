@@ -1,0 +1,10 @@
+flask
+python-dotenv
+openai
+anthropic
+google-generativeai
+requests
+asyncio
+dataclasses
+enum34
+uuid
